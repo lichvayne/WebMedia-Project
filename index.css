@@ -13,6 +13,7 @@ body {
     background-color: #fff;
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: transparent;
+    
 }
 
 .flleft{
@@ -409,19 +410,18 @@ section{
 }
 
 .product-section{
-    border: 2px solid #ffffff;
+
     border-radius: 25px;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
     margin-top: 20px;
     margin-bottom: 30px;
     max-width: 100%;
-    box-shadow: 0px 0px 19px 5px rgba(0,0,0,0.19);
 	height: 100vh;
 	display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    overflow: auto;
+
 }
  /* პროდუქტების სია */
